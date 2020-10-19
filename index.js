@@ -3,7 +3,7 @@ exports.disciplines = [
   "discipline.physics",
   "discipline.chemistry",
   "discipline.dataProcessing",
-  // "discipline.english"
+  "discipline.english"
 ];
 
 // exports.tutorLevels = [
@@ -19,12 +19,12 @@ exports.disciplines = [
 // ];
 
 exports.studentLevels = [
-  // "level.primary",
-  "level.cp",
-  "level.ce1",
-  "level.ce2",
-  "level.cm1",
-  "level.cm2",
+  "level.primary",
+  // "level.cp",
+  // "level.ce1",
+  // "level.ce2",
+  // "level.cm1",
+  // "level.cm2",
   "level.6th",
   "level.5th",
   "level.4th",
