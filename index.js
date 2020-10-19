@@ -3,7 +3,7 @@ exports.disciplines = [
   "discipline.physics",
   "discipline.chemistry",
   "discipline.dataProcessing",
-  "discipline.english"
+  // "discipline.english"
 ];
 
 // exports.tutorLevels = [
